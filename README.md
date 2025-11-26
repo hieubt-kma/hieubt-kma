@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=450&lines=Hi+There!+I\'m+Hieu+BT;Cyber+Security+Student+@+KMA;Focusing+on+Cloud+Sec+%26+Forensics;Powered+by+Coffee+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=450&lines=Hi+There!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -20,7 +20,7 @@
     <td valign="top" width="55%">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 <b>Information Assurance Student</b> at <b>KMA</b>.</li>
+        <li>🎓 Second Years Cyber Security at KMA.</li>
         <li>🔭 I’m currently exploring <b>Cloud Security</b> & <b>Digital Forensics</b>.</li>
         <li>💻 My Arsenal: <b>Kali Linux</b> (Attack) & <b>Windows</b> (Analysis).</li>
         <li>☕ Fuel: <b>Black Coffee</b> (Lots of it).</li>
