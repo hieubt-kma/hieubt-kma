@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieubt-kma&label=Profile%20views&color=0e75b6&style=flat" alt="hieubt-kma" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hieubt.vercel.app/](https://hieubt.vercel.app/)
-
-- 📫 How to reach me **buitanhieu86@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hieubt06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hieubt06" height="30" width="40" /></a>
