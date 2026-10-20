@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Hieu Bui</h1>
-<h3 align="center">Cybersecurity Student | Cloud Security | SOC L1</h3>
+<h3 align="center">Cybersecurity Student
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieubt-kma&label=Profile%20views&color=0e75b6&style=flat" alt="hieubt-kma" /> </p>
 
