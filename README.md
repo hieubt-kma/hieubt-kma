@@ -25,8 +25,3 @@
   <img src="https://ghchart.xqsit94.in/dark:ef4444/hieubt-kma" alt="GitHub contributions by day" width="100%" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieubt-kma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=E6EDF3" alt="GitHub stats" />
-</p>
